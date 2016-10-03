@@ -37,7 +37,8 @@ production:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: mysql_production
+#  database: mysql_production
+  database: mysql_development
   username: root
   password: '1212'
   pool: 5
