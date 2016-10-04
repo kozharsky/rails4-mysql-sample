@@ -39,8 +39,8 @@ production:
   reconnect: false
   database: mysql_production
 #  database: mysql_development
-  username: root
-  password: '1212'
+  #username: root
+  #password: '1212'
   pool: 5
   host: 192.168.0.4
   port: 3306
